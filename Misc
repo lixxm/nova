@@ -1,9 +1,9 @@
 CHANGELOG:
-1) Made UI smooth / used better ui
-2) Added the first function, games in the file.
+1) Changed minimise to rotate instead of flashing.
+2) Added auto strafe features + Gain features to bhop and surf.
 
 VERSION:
-0.7.3 (release)
+1.4.1 (release)
 
 STATUS:
 in-date
